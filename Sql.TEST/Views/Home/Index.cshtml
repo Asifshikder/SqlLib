@@ -1,0 +1,16 @@
+﻿@model Sql.TEST.Models.ScriptModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <form asp-controller="Home" asp-action="IndexPost" method="post">
+        <h2> Run query</h2>
+        <label>Connection string</label>
+        <input asp-for="Constring" class="form-control" placeholder="connectionstring" />
+        <br />
+        <label>Query</label>
+        <textarea asp-for="Query" placeholder="Scripts" class="form-control"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+</div>

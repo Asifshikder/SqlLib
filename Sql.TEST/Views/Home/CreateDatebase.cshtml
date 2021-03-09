@@ -1,0 +1,17 @@
+﻿@model Sql.TEST.Models.NewDbModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <form asp-controller="Home" asp-action="CreateDatabasePost" method="post">
+        <h2>Create new database</h2>
+        <label>Server name</label>
+        <input asp-for="ServerName" class="form-control" placeholder="servername" />
+        <br />
+        <label>Database name</label>
+        <input asp-for="DatabaseName" class="form-control" placeholder="database" />
+
+        <button type="submit">Submit</button>
+    </form>
+</div>

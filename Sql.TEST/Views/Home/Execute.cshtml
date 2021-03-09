@@ -1,0 +1,23 @@
+﻿@model Sql.TEST.Models.ScriptParameter
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <form asp-controller="Home" asp-action="ExecutePost" method="post">
+        <h2>Run script with parameter</h2>
+        <label>Parameter</label>
+        <input asp-for="Parameter" class="form-control" placeholder="Parameter" />
+        <br />
+        <label>Value</label>
+        <input asp-for="Value" class="form-control" placeholder="Value" />
+        
+        <label>Command</label>
+        <input asp-for="Command" class="form-control" placeholder="Value" />
+        
+        <label>Connection string</label>
+        <input asp-for="ConnectionString" class="form-control" placeholder="Cpnnection string" />
+
+        <button type="submit">Submit</button>
+    </form>
+</div>

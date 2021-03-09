@@ -1,0 +1,9 @@
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\bin\Debug\netcoreapp3.1\SqlLib.deps.json
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\bin\Debug\netcoreapp3.1\SqlLib.dll
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\bin\Debug\netcoreapp3.1\SqlLib.pdb
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.AssemblyInfoInputs.cache
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.AssemblyInfo.cs
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.csproj.CoreCompileInputs.cache
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.dll
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.pdb
+C:\Users\Asifs\source\repos\SqlLib\SqlLib\obj\Debug\netcoreapp3.1\SqlLib.csprojAssemblyReference.cache
