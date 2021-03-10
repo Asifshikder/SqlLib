@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj",
+      "projectUniqueName": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj",
       "projectName": "SqlLib",
-      "projectPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj",
+      "projectPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj",
       "packagesPath": "C:\\Users\\Asifs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\obj\\",
+      "outputPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asifs\\AppData\\Roaming\\NuGet\\NuGet.Config",

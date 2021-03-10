@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RahpVdr0KsIgiUx1qatzuf9hYDXP6bwfySTAE09w748B/hyj8rj5nAa+Kbk28+Q1FzJfPPyocH/IAsEktohWfw==",
+  "dgSpecHash": "tnaUMrCYLnwpdp1YkQz+Ufp/sVh3qnFx+FaCtzHdCX9iZ96snJTQRUXIgrtVwiqRq/Ib1MyLJ7OA5XtfWqA5zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj",
+  "projectFilePath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asifs\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Asifs\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

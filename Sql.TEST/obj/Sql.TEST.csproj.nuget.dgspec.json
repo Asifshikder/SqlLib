@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asifs\\source\\repos\\SqlLib\\Sql.TEST\\Sql.TEST.csproj": {}
+    "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\Sql.TEST\\Sql.TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asifs\\source\\repos\\SqlLib\\Sql.TEST\\Sql.TEST.csproj": {
+    "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\Sql.TEST\\Sql.TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\Sql.TEST\\Sql.TEST.csproj",
+        "projectUniqueName": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\Sql.TEST\\Sql.TEST.csproj",
         "projectName": "Sql.TEST",
-        "projectPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\Sql.TEST\\Sql.TEST.csproj",
+        "projectPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\Sql.TEST\\Sql.TEST.csproj",
         "packagesPath": "C:\\Users\\Asifs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\Sql.TEST\\obj\\",
+        "outputPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\Sql.TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asifs\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj": {
-                "projectPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj"
+              "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj": {
+                "projectPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj": {
+    "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj",
+        "projectUniqueName": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj",
         "projectName": "SqlLib",
-        "projectPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\SqlLib.csproj",
+        "projectPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\SqlLib.csproj",
         "packagesPath": "C:\\Users\\Asifs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asifs\\source\\repos\\SqlLib\\SqlLib\\obj\\",
+        "outputPath": "C:\\Users\\Asifs\\Desktop\\SQLLibrary\\SqlLib\\SqlLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asifs\\AppData\\Roaming\\NuGet\\NuGet.Config",
