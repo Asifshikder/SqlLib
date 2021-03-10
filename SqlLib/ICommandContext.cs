@@ -7,6 +7,6 @@ namespace SqlLib
         void ExecuteScripts(string conString, string script);
         void ExecuteScriptsWithParameter(string parametername, string value, string command,string conString, string script);
       
-        void CreateDatabase(string servername, string databasenamessss);
+        void CreateDatabase(string servername, string dbname);
     }
 }
